@@ -1,0 +1,11 @@
+﻿  MatrixMultiply.cpp
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(55,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(58,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(81,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(84,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(218,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'cl_ulong'
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(218,12): message : consider using '%lld' in the format string
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(218,12): message : consider using '%I64d' in the format string
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(102,13): warning C4101: 'platformCount': unreferenced local variable
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\MatrixMultiply.cpp(105,13): warning C4101: 'ret_num_devices': unreferenced local variable
+  MatrixMultiply.vcxproj -> C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\MatrixMultiply\Debug\MatrixMultiply.exe
